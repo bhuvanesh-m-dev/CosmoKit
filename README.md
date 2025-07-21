@@ -65,4 +65,4 @@ Feel free to contribute responsibly by adding new image folders with proper attr
 
 ---
 
-**Made for internal archival and structured use within open source projects such as CosmoDB and CosmoTalker.**
+**Made for internal archival and structured use within open source projects.**
