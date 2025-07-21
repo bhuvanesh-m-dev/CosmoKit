@@ -1,38 +1,42 @@
 # 🌌 CosmoKit
 
-> A lightweight asset and license kit for open-source space-themed projects 🌠  
-> Includes Creative Commons–licensed files with attribution, curated for educational and scientific use.
+> A Creative Commons–compliant asset repository for open-source and space-themed projects.  
+> ✨ Includes images, audio, and other media with full attribution — safe to use, transparent, and ethical.
 
 ---
 
-## 📁 What is CosmoKit?
+## 📁 Structure & Purpose
 
-**CosmoKit** is a public repository that stores:
-- 🌍 Images and assets under **Creative Commons** licenses (CC-BY, CC0, etc.)
-- 📄 Proper credits and attributions for each asset
-- 📦 Resources used in other open-source projects like [CosmoDB](https://github.com/your-org/cosmodb)
+Each subfolder in this repository represents **a single asset**, and contains:
 
-It's meant to help developers safely use high-quality media in Python or educational tools while respecting creators' rights.
+| File/Folder | Description |
+|-------------|-------------|
+| `mars_image/` | A folder for a Mars-related asset |
+| ├── `mars.jpg` | The actual image or file |
+| └── `README.md` | Contains credits, license, source, and usage instructions |
 
----
-
-## 🛰️ What's Inside?
-
-| Folder | Description |
-|--------|-------------|
-| `/images/` | Planet, galaxy, and astronomy illustrations under Creative Commons |
-| `/audio/` | (Optional) Space ambient sounds or clips with CC license |
-| `/credits/` | Text files for each asset used, including source URL and license type |
-| `/cosmodb/` | Assets currently used by CosmoDB Python library |
+This structure ensures:
+- Clear **attribution for each file**
+- Easy **copy-paste credits** for other projects
+- Organized asset reuse across multiple tools (e.g., CosmoDB, CosmoTalker)
 
 ---
 
-## ✅ Usage
+## 📦 How to Use
 
-You’re free to use the assets **only if you retain the credit** (as per CC terms).
+1. Browse any subfolder (e.g., `/mars_image/`)
+2. View the included `README.md` file
+3. Copy the credit block into your project
+4. Respect the license (e.g., CC-BY, CC0)
 
-### Example:
-If using `mars.png` from this repo in your Python tool or website:
+### 🔍 Example Attribution
+
+Inside `mars_image/README.md`:
 ```markdown
-Image Credit: NASA/JPL-Caltech - [mars.png](https://link-to-source)
-Licensed under CC-BY 2.0
+## 📄 Credits
+
+- **File Name**: mars.jpg
+- **Creator**: NASA/JPL-Caltech
+- **License**: CC-BY 2.0
+- **Source**: https://www.jpl.nasa.gov/images/mars
+- **Use**: Free to use with attribution
