@@ -1,66 +1,68 @@
-# 🌌 Cosmokit
+# Cosmokit 📦
 
-**Cosmokit** is a Creative Commons licensed **storage system** for assets (mostly images) used in other open-source projects like `CosmoDB`, `CosmoTalker`, and more.
+Cosmokit is a public GitHub repository designed to store and organize Creative Commons licensed files (primarily images) that are used for open-source software projects — including the CosmoDB Python library and other related tools.
 
-Each subfolder in this repository contains:
-
-* `image.png` — A Creative Commons image used in a specific project.
-* `core_source.ext` — A core source file (e.g., `.py`, `.html`) that uses the asset.
-* `README.md` — Attribution and credits specific to the asset and its usage.
+This repository helps developers find, reference, and use visual assets legally while giving proper attribution.
 
 ---
 
-## 📦 Repository Structure
+## 📁 Folder Structure
+
+Each subfolder in this repository follows a consistent structure:
 
 ```
-Cosmokit/
-├── galaxy_clock/
-│   ├── image.png
-│   ├── galaxy_clock.py
-│   └── README.md
-├── nebula_ui/
-│   ├── image.png
-│   ├── interface.html
-│   └── README.md
+/your-content-folder-name
+├── image.png          # The Creative Commons licensed image
+└── README.md          # Contains attribution, source URL, and license information
 ```
 
 ---
 
-## ✅ Guidelines
+## 🧭 Usage Guidelines
 
-* All images were sourced using the **Google Images Creative Commons License filter**.
-* These files are **stored for reference only**, not redistributed or used for profit.
-* Used only in **open-source, non-commercial** contexts with full attribution.
+* The images are sourced via the **Creative Commons license filter using Google Images**.
+* You may use the images directly in your open-source or personal projects.
+* To use an image, copy its **raw GitHub URL** and embed it in your project.
+
+> ✅ **IMPORTANT:** Attribution is mandatory.
+
+* You must ensure that attribution is given to the **original creator/source** as mentioned in the corresponding `README.md` file inside each folder.
+* Attribution mentioned in this repository is only a **guide**. Please verify and include the correct credentials in your own usage.
 
 ---
 
-## 📎 Example Folder: `galaxy_clock/`
+## 🧪 Example
 
-### Contents:
+```
+/cosmotalker_cover
+├── image.png          # The cover image used in CosmoTalker library
+└── README.md          # Credits: Image sourced from XYZ via Google Images under CC license
+```
 
-* `image.png`: Galaxy-style background used in `galaxy_clock.py`
-* `galaxy_clock.py`: Python file using the image
-* `README.md`: Contains credit information
+**Sample Raw Image URL Usage:**
 
-### `galaxy_clock/README.md`
-
-```markdown
-# Galaxy Clock - Asset Info
-
-## 🖼 Image Attribution
-- **Source**: Google Images (Creative Commons filter)
-- **Type**: Spiral Galaxy illustration
-- **Purpose**: Background asset for `galaxy_clock.py`
-- **License**: Creative Commons — NonCommercial, ShareAlike
-
-## ℹ️ Notes
-This image is not intended for redistribution or resale. It's stored only as a reference for the open-source `CosmoDB` subproject.
+```md
+![CosmoTalker Cover](https://raw.githubusercontent.com/your-username/cosmokit/main/cosmotalker_cover/image.png)
 ```
 
 ---
 
-## 🙏 Acknowledgements
+## 🔖 License
 
-We thank all original image creators for their contributions under Creative Commons licenses.
+This repository does not claim ownership of any image. All rights belong to the original creators. Every file is distributed under the terms of its respective Creative Commons license.
 
-This storage system ensures transparent and respectful usage of assets in the Cosmo open-source ecosystem.
+When in doubt, always verify and cite the actual source and license as noted in each subfolder's README.
+
+---
+
+## 🙌 Credits
+
+All images are manually filtered from **Google Images under Creative Commons licensing tools**. Please use responsibly and respectfully.
+
+---
+
+Feel free to contribute responsibly by adding new image folders with proper attribution.
+
+---
+
+**Made for internal archival and structured use within open source projects such as CosmoDB and CosmoTalker.**
