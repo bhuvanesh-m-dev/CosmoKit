@@ -1,19 +1,35 @@
-This image file is part of the **CosmoKit** repository, which serves as a storage and credit-tracked resource for open-source projects using Creative Commons licensed media.
+This image file is part of the **CosmoKit** repository, which acts as a storage and credit-tracked resource for open-source projects utilizing Creative Commons licensed media.
 
-## Image Details
+## 📄 Image Details
 
-* **File name:** `sun.jpg`
-* **Raw GitHub URL:** [https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/sun/sun.jpg](https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/sun/sun.jpg)
+- **File name:** `sun.jpg`
+- **Raw GitHub URL:**  
+  [https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/sun/sun.jpg](https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/sun/sun.jpg)
 
-### Embedded Preview
+### 🖼️ Embedded Preview
+
 ![sun image](https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/sun/sun.jpg)
-## Source and License
 
-* **Image Source:** [https://commons.wikimedia.org/wiki/File\:The\_Sun\_by\_the\_Atmospheric\_Imaging\_Assembly\_of\_NASA%27s\_Solar\_Dynamics\_Observatory\_-\_20100819.jpg](https://commons.wikimedia.org/wiki/File:The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg)
-* **License:** Creative Commons license. This image is publicly available for reuse.
+## 🔗 Source and License
 
-For more details regarding the license and attribution, please visit the above URL. This repository is open-source and includes files under the Creative Commons license. If you use this image, make sure to provide proper credit to the original creator or author, as the repository owner is not the original author. Refer to the image source URL to verify attribution. If you believe the image is not under a Creative Commons license, kindly contact me via the email provided in my bio. Thank you.
-
-Additionally, this image was sourced from Google Images using the Creative Commons license tool only.
+- **Original Image Source:**  
+  [https://commons.wikimedia.org/wiki/File:The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg](https://commons.wikimedia.org/wiki/File:The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg)
+  
+- **License:**  
+  Creative Commons license — This image is publicly available for reuse and adaptation under the license terms described on the original source page.
 
 ---
+
+## 📢 Attribution Notice
+
+This repository is open-source and contains media files sourced under Creative Commons licenses.
+
+- The image was discovered via **Google Images** using the **Creative Commons license filter tool only**.
+- This repository’s maintainer is **not the original author** of the image.
+- Please ensure you **credit the original author or source** when reusing this image in your own project.
+- To confirm license validity, always **refer to the image source URL** above.
+- If you believe this image is not correctly licensed under Creative Commons or have any concerns, kindly **reach out via the contact email provided in the GitHub bio**.
+
+---
+
+✅ This README serves to maintain attribution integrity and transparency for ethical open-source sharing.
