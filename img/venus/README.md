@@ -2,7 +2,7 @@ This image file is part of the **CosmoKit** repository, which acts as a storage 
 
 ## 📄 Image Details
 
-- **File name:** `venus.jpg`
+- **File name:** `venus.jpeg`
 - **Raw GitHub URL:**  
   [https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/venus/venus.jpeg](https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/venus/venus.jpeg)
 
