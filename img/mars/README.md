@@ -8,7 +8,7 @@ This image file is part of the **CosmoKit** repository, which acts as a storage 
 
 ### 🖼️ Embedded Preview
 
-![sun image](https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/sun/sun.jpg)
+![sun image](https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/mars/mars.jpg)
 
 ## 🔗 Source and License
 
