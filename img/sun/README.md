@@ -1,5 +1,3 @@
-# sun.jpg
-
 This image file is part of the **CosmoKit** repository, which serves as a storage and credit-tracked resource for open-source projects using Creative Commons licensed media.
 
 ## Image Details
@@ -8,7 +6,7 @@ This image file is part of the **CosmoKit** repository, which serves as a storag
 * **Raw GitHub URL:** [https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/sun/sun.jpg](https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/sun/sun.jpg)
 
 ### Embedded Preview
-
+![sun image](https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/sun/sun.jpg)
 ## Source and License
 
 * **Image Source:** [https://commons.wikimedia.org/wiki/File\:The\_Sun\_by\_the\_Atmospheric\_Imaging\_Assembly\_of\_NASA%27s\_Solar\_Dynamics\_Observatory\_-\_20100819.jpg](https://commons.wikimedia.org/wiki/File:The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg)
