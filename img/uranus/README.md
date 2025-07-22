@@ -2,7 +2,7 @@ This image file is part of the **CosmoKit** repository, which acts as a storage 
 
 ## 📄 Image Details
 
-- **File name:** `sun.jpg`
+- **File name:** `uranus.png`
 - **Raw GitHub URL:**  
   [https://github.com/bhuvanesh-m-dev/CosmoKit/blob/main/img/uranus/uranus.png](https://github.com/bhuvanesh-m-dev/CosmoKit/blob/main/img/uranus/uranus.png)
 
