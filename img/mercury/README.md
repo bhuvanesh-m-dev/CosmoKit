@@ -4,11 +4,11 @@ This image file is part of the **CosmoKit** repository, which acts as a storage 
 
 - **File name:** `sun.jpg`
 - **Raw GitHub URL:**  
-  [[https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/sun/sun.jpg](https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/mercury/mercury.jpg)]([https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/sun/sun.jpg](https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/mercury/mercury.jpg))
+
 
 ### 🖼️ Embedded Preview
 
-![mercury image]([https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/sun/sun.jpg](https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/mercury/mercury.jpg))
+![mercury image](https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/mercury/mercury.jpg))
 
 ## 🔗 Source and License
 
