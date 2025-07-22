@@ -2,7 +2,7 @@ This image file is part of the **CosmoKit** repository, which acts as a storage 
 
 ## 📄 Image Details
 
-- **File name:** `sun.jpg`
+- **File name:** `saturn.jpeg`
 - **Raw GitHub URL:**  
   [https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/saturn/saturn.jpeg](https://raw.githubusercontent.com/bhuvanesh-m-dev/CosmoKit/refs/heads/main/img/saturn/saturn.jpeg)
 
